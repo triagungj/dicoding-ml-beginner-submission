@@ -28,6 +28,8 @@ Untuk meningkatkan kualitas dokumentasi dan memberikan pemahaman yang lebih baik
 - Alasan penggunaan → Mengapa metode tersebut dipilih dan bagaimana relevansinya dengan proyek.
 - Hasil yang didapat → Interpretasi hasil setelah metode diterapkan.
 
+## Ekspektasi Output
+
 Ekspektasi output yang akan dihasilkan pada proyek ini adalah berpua file-file sebagai berikut:
 
 ```
