@@ -32,7 +32,8 @@
 - [ ] Sajikan visualisasi hasil clustering dan analisis deskriptif (min, max, mean) tiap cluster.
 - [ ] Jelaskan karakteristik setiap cluster berdasarkan fitur yang dominan.
 - [ ] Lakukan inverse transform pada fitur yang di-scaling/encoding, lengkapi deskripsi dengan nilai mode untuk fitur kategorikal.
-- [ ] Gabungkan data yang sudah di-inverse dengan label cluster (`Target`) dan ekspor ke file (mis. `data_clustering_inverse.csv`).
+- [ ] Simpan dataset terklaster (pra-inverse) beserta label cluster ke `data_clustering.csv`.
+- [ ] Gabungkan data yang sudah di-inverse dengan label cluster (`Target`) dan ekspor ke `data_clustering_inverse.csv`.
 
 ## Pemodelan Klasifikasi (Kriteria 5)
 
@@ -43,7 +44,9 @@
 
 ## Dokumentasi & Finalisasi
 
+- [ ] Ekspor notebook clustering ke `[Clustering] Submission Akhir BMLP_username.ipynb` dan notebook klasifikasi ke `[Klasifikasi] Submission Akhir BMLP_username.ipynb`.
 - [ ] Pastikan notebook mengikuti struktur template (unsupervised lalu supervised) dan seluruh sel menampilkan output yang diminta.
 - [ ] Tambahkan penjelasan metode, alasan pemilihan, dan ringkasan hasil pada setiap analisis sesuai format yang disarankan.
-- [ ] Verifikasi ulang semua file output (`joblib` dan CSV) berada di lokasi yang diminta dan dapat dibaca evaluator.
+- [ ] Verifikasi ulang semua file output (`joblib`, notebook, dan CSV) berada di lokasi yang diminta dan dapat dibaca evaluator.
+- [ ] Kemasi seluruh berkas output ke `BMLP_Nama-siswa.zip` mengikuti struktur pada bagian `Ekspektasi Output` di `AGENT.md`.
 - [ ] Lakukan pengecekan akhir sebelum submission (re-run notebook, bersihkan warning/error, update catatan penting).
