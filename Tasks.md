@@ -8,9 +8,9 @@
 
 ## Eksplorasi Data (Kriteria 1)
 
-- [ ] Muat dataset `Dataset/bank-transaction-dataset.csv` dan tampilkan output `head()`, `info()`, serta `describe()`.
-- [ ] Buat matriks korelasi dan interpretasi singkat terhadap relasi fitur utama.
-- [ ] Visualisasikan distribusi fitur numerik dan kategorikal (histogram) dengan label yang terbaca jelas.
+- [x] Muat dataset `Dataset/bank-transaction-dataset.csv` dan tampilkan output `head()`, `info()`, serta `describe()`.
+- [x] Buat matriks korelasi dan interpretasi singkat terhadap relasi fitur utama.
+- [x] Visualisasikan distribusi fitur numerik dan kategorikal (histogram) dengan label yang terbaca jelas.
 
 ## Pembersihan & Pra-pemrosesan (Kriteria 2)
 
