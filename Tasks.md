@@ -14,11 +14,11 @@
 
 ## Pembersihan & Pra-pemrosesan (Kriteria 2)
 
-- [ ] Periksa nilai hilang dan duplikat menggunakan `isnull().sum()` dan `duplicated().sum()`.
-- [ ] Tangani nilai hilang (drop atau imputasi) dan hapus entri duplikat jika ditemukan.
-- [ ] Hapus kolom ID (`TransactionID`, `AccountID`, `DeviceID`, `IPAddress`, `MerchantID`).
-- [ ] Lakukan encoding fitur kategorikal dengan `LabelEncoder` dan scaling fitur numerik menggunakan `MinMaxScaler` atau `StandardScaler`.
-- [ ] Lakukan penanganan outlier (drop atau imputasi) dan, bila relevan, lakukan binning pada 1–2 fitur numerik lalu encode hasilnya.
+- [x] Periksa nilai hilang dan duplikat menggunakan `isnull().sum()` dan `duplicated().sum()`.
+- [x] Tangani nilai hilang (drop atau imputasi) dan hapus entri duplikat jika ditemukan.
+- [x] Hapus kolom ID (`TransactionID`, `AccountID`, `DeviceID`, `IPAddress`, `MerchantID`).
+- [x] Lakukan encoding fitur kategorikal dengan `LabelEncoder` dan scaling fitur numerik menggunakan `MinMaxScaler` atau `StandardScaler`.
+- [x] Lakukan penanganan outlier (drop atau imputasi) dan, bila relevan, lakukan binning pada 1–2 fitur numerik lalu encode hasilnya.
 
 ## Pemodelan Clustering (Kriteria 3)
 
