@@ -29,11 +29,11 @@
 
 ## Interpretasi Hasil Clustering (Kriteria 4)
 
-- [ ] Sajikan visualisasi hasil clustering dan analisis deskriptif (min, max, mean) tiap cluster.
-- [ ] Jelaskan karakteristik setiap cluster berdasarkan fitur yang dominan.
-- [ ] Lakukan inverse transform pada fitur yang di-scaling/encoding, lengkapi deskripsi dengan nilai mode untuk fitur kategorikal.
-- [ ] Simpan dataset terklaster (pra-inverse) beserta label cluster ke `data_clustering.csv`.
-- [ ] Gabungkan data yang sudah di-inverse dengan label cluster (`Target`) dan ekspor ke `data_clustering_inverse.csv`.
+- [x] Sajikan visualisasi hasil clustering dan analisis deskriptif (min, max, mean) tiap cluster.
+- [x] Jelaskan karakteristik setiap cluster berdasarkan fitur yang dominan.
+- [x] Lakukan inverse transform pada fitur yang di-scaling/encoding, lengkapi deskripsi dengan nilai mode untuk fitur kategorikal.
+- [x] Simpan dataset terklaster (pra-inverse) beserta label cluster ke `data_clustering.csv`.
+- [x] Gabungkan data yang sudah di-inverse dengan label cluster (`Target`) dan ekspor ke `data_clustering_inverse.csv`.
 
 ## Pemodelan Klasifikasi (Kriteria 5)
 
