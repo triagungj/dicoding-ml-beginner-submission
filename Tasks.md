@@ -2,9 +2,9 @@
 
 ## Persiapan
 
-- [ ] Siapkan environment Python (virtualenv/conda) dan pastikan dependensi, termasuk `scikit-learn==1.7.0`, sudah terpasang.
-- [ ] Tinjau notebook template pada folder `Codes/` untuk memahami struktur pengerjaan yang harus diikuti.
-- [ ] Baca ulang deskripsi proyek di `AGENT.md` dan kriteria penilaian pada `Acceptance-Criteria.md` agar seluruh langkah selaras dengan ekspektasi.
+- [x] Siapkan environment Python (virtualenv/conda) dan pastikan dependensi, termasuk `scikit-learn==1.7.0`, sudah terpasang.
+- [x] Tinjau notebook template pada folder `Codes/` untuk memahami struktur pengerjaan yang harus diikuti.
+- [x] Baca ulang deskripsi proyek di `AGENT.md` dan kriteria penilaian pada `Acceptance-Criteria.md` agar seluruh langkah selaras dengan ekspektasi.
 
 ## Eksplorasi Data (Kriteria 1)
 
