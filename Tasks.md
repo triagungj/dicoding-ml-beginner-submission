@@ -22,10 +22,10 @@
 
 ## Pemodelan Clustering (Kriteria 3)
 
-- [ ] Jalankan Elbow Method (`KElbowVisualizer`) untuk menentukan jumlah cluster optimal.
-- [ ] Latih model K-Means pada data yang sudah diproses dan simpan menggunakan `joblib.dump(model_clustering)`.
-- [ ] Hitung Silhouette Score dan visualisasikan hasil cluster untuk evaluasi awal.
-- [ ] (Opsional Advanced) Bangun model PCA, bandingkan hasilnya, dan simpan dengan `joblib.dump(model, "PCA_model_clustering.h5")`.
+- [x] Jalankan Elbow Method (`KElbowVisualizer`) untuk menentukan jumlah cluster optimal.
+- [x] Latih model K-Means pada data yang sudah diproses dan simpan menggunakan `joblib.dump(model_clustering)`.
+- [x] Hitung Silhouette Score dan visualisasikan hasil cluster untuk evaluasi awal.
+- [x] Bangun model PCA, bandingkan hasilnya, dan simpan dengan `joblib.dump(model, "PCA_model_clustering.h5")`.
 
 ## Interpretasi Hasil Clustering (Kriteria 4)
 
