@@ -6,6 +6,8 @@ Langkah pertama adalah menerapkan teknik unsupervised learning, khususnya cluste
 
 Dengan dataset yang telah dilengkapi dengan label atau kelas, Anda akan menerapkan metode supervised learning, yaitu klasifikasi, untuk mengembangkan model yang mampu memprediksi kelas berdasarkan fitur yang ada. Proyek ini dirancang untuk menilai kemampuan Anda dalam mengintegrasikan kedua metode tersebut dan memecahkan masalah yang relevan dengan teknik machine learning yang telah dipelajari.
 
+Untuk memantau progres pengerjaan, gunakan checklist pada dokumen [Task.md](Task.md).
+
 Panduan Dataset untuk Submission Kelas
 Untuk memastikan pengerjaan proyek clustering berjalan terstruktur dan sesuai standar evaluasi, peserta diwajibkan mengikuti template yang telah disediakan. Setiap langkah harus dilakukan secara sistematis dan mematuhi instruksi yang diberikan dalam template proyek. Berikut ini hal-hal yang perlu diperhatikan sebelum memulai pengerjaan projek:
 
