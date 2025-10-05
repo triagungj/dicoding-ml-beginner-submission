@@ -37,10 +37,10 @@
 
 ## Pemodelan Klasifikasi (Kriteria 5)
 
-- [ ] Gunakan dataset berlabel (`Target`) untuk melakukan `train_test_split()`.
-- [ ] Latih model Decision Tree dan simpan menggunakan `joblib.dump(decision_tree_model, "decision_tree_model.h5")`.
-- [ ] Uji algoritma klasifikasi lain, tampilkan metrik akurasi, presisi, recall, dan F1-score; simpan model eksplorasi (`joblib.dump` dengan pola `explore_<algoritma>_classification`).
-- [ ] (Opsional Advanced) Lakukan hyperparameter tuning pada salah satu model dan simpan hasilnya (`joblib.dump(tuning_model, "tuning_classification")`).
+- [x] Gunakan dataset berlabel (`Target`) untuk melakukan `train_test_split()`.
+- [x] Latih model Decision Tree dan simpan menggunakan `joblib.dump(decision_tree_model, "decision_tree_model.h5")`.
+- [x] Uji algoritma klasifikasi lain, tampilkan metrik akurasi, presisi, recall, dan F1-score; simpan model eksplorasi (`joblib.dump` dengan pola `explore_<algoritma>_classification`).
+- [x] (Opsional Advanced) Lakukan hyperparameter tuning pada salah satu model dan simpan hasilnya (`joblib.dump(tuning_model, "tuning_classification")`).
 
 ## Dokumentasi & Finalisasi
 
