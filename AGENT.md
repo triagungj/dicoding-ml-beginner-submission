@@ -27,3 +27,18 @@ Untuk meningkatkan kualitas dokumentasi dan memberikan pemahaman yang lebih baik
 - Metode yang digunakan → Teknik atau algoritma yang diterapkan dalam tahap tersebut.
 - Alasan penggunaan → Mengapa metode tersebut dipilih dan bagaimana relevansinya dengan proyek.
 - Hasil yang didapat → Interpretasi hasil setelah metode diterapkan.
+
+Ekspektasi output yang akan dihasilkan pada proyek ini adalah berpua file-file sebagai berikut:
+
+```
+BMLP_Nama-siswa.zip
+├── [Clustering] Submission Akhir BMLP_username.ipynb
+├── [Klasifikasi] Submission Akhir BMLP_username.ipynb
+├── model_clustering.h5
+├── PCA_model_clustering.h5 (Opsional)
+├── decision_tree_model.h5
+├── explore_<Nama Algoritma>_classification.h5 (Opsional)
+├── tuning_classification.h5 (Opsional)
+├── data_clustering.csv
+├── data_clustering_inverse.csv (Opsional)
+```
